@@ -32,7 +32,7 @@ Sockets.
 ### Front End:
 
 The front-end is hosted on Netlify.  
-The front-end repository is: https://github.com/machadop1407/musical-connection-client
+The front-end repository is: https://github.com/iamjohncaleb/Lgc-Musical-Chat-Frontend
 
 ### Back End
 
